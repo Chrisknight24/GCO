@@ -19,7 +19,7 @@ GCO is a GUI library which simplifies the creation of simple/basic Windows inter
 
 1. **Download the appropriate release**: Go to the [Releases] page and download the setup executable for your system (x86 or x64).
 2. **Run the setup**: Execute the downloaded file and follow the instructions to install GCO.
-3. ** you can Also use a test 's folder also in if you don't want any installation.
+3. ** you can Also use a test 's folder  if you don't want any installation.
 ## Example Usage
 
 The `expleOfProduct` folder contains another app(manitext.exe) that demonstrates how to use GCO to create a Windows application with c and win32 Api. You can explore manitext.gco with
